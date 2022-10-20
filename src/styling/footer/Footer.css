@@ -1,0 +1,21 @@
+.footerContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #BFD4D9;
+}
+
+.copyright {
+   display: flex;
+}
+.copyright img {
+    align-self: center;
+    margin-right: 5px;
+}
+
+.socialMedia img{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+

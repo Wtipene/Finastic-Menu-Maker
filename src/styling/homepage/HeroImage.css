@@ -1,0 +1,40 @@
+.heroImageContainer {
+    padding-top: 4vw;
+    padding-bottom: 4vw;
+    padding-left: 5vw;
+    background-color: #C4EDF5;
+    color: #14343B;
+}
+
+.heroImageHeading {
+    margin-bottom: 3vw;
+}
+
+.heroImageTicks h4{
+    margin-bottom: 3vw;
+}
+.heroImageTicks img {
+    vertical-align: middle;
+    margin-right: 1vw;
+}
+
+.heroImageButton button {
+    margin-left: 12vw;
+    background-color: #E5C34B;
+    color: #14343B;
+    border-radius: 6px;
+    border: none;
+    width: 12vw;
+    height: 3vw;
+    box-shadow: 0px 0.5px #313131
+}
+
+.heroImage {
+    position: relative;
+}
+.heroImage img {
+    position: absolute;
+    width: 35vw;
+    right: 3vw;
+    bottom: 0vw;
+}
